@@ -1,0 +1,14 @@
+body {
+  width: 800px;
+  align-content: center;
+  margin: auto;
+}
+.invisible {
+  opacity: 0;
+}
+.visible {
+  opacity: 100;
+}
+input {
+  width: 70px;
+}
